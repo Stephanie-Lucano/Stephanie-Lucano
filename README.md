@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+```js
+const stephanie = {
+    😄 Pronouns: ["she", "her"]
+}
+```
+
 <!--
 **Stephanie-Lucano/Stephanie-Lucano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
