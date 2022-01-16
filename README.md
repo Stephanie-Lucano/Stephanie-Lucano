@@ -11,7 +11,7 @@ const stephanie = {
             "My little brother",
             "Marie Kondo",
         ]
-    }
+    },
     🖤 Quotes: {
         Jean-Jacques-Rousseau: "Patience is bitter, but its fruit is sweet"
     }
