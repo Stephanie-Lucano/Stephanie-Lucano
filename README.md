@@ -13,7 +13,7 @@ const stephanie = {
         Organizations: [
             "Pursuit"
         ],
-        Celeberties: "Marie Kondo"
+        Public-figures: "Marie Kondo"
     },
     🖤 Quotes: {
         Jean-Jacques-Rousseau: "Patience is bitter, but its fruit is sweet"
