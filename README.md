@@ -9,11 +9,11 @@ const stephanie = {
             "My sister",
             "My partner",
             "My little brother",
-            "Marie Kondo"
         ], 
         Organizations: [
             "Pursuit"
-        ]
+        ],
+        Celeberties: "Marie Kondo"
     },
     🖤 Quotes: {
         Jean-Jacques-Rousseau: "Patience is bitter, but its fruit is sweet"
