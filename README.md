@@ -9,7 +9,7 @@ const stephanie = {
             "My sister",
             "My partner",
             "My little brother",
-            "Marie Kondo",
+            "Marie Kondo"
         ]
     },
     🖤 Quotes: {
