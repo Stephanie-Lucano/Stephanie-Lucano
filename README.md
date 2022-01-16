@@ -10,6 +10,9 @@ const stephanie = {
             "My partner",
             "My little brother",
             "Marie Kondo"
+        ], 
+        Organizations: [
+            "Pursuit"
         ]
     },
     🖤 Quotes: {
