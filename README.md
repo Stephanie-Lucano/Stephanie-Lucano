@@ -2,7 +2,20 @@
 
 ```js
 const stephanie = {
-    😄 Pronouns: ["she", "her"]
+    😄 Pronouns: ["she", "her"],
+    🏆 Influences: {
+        People: [
+            "My mom", 
+            "My sister",
+            "My partner",
+            "My little brother",
+            "Marie Kondo",
+        ]
+    }
+    🖤 Quotes: {
+        Jean-Jacques-Rousseau: "Patience is bitter, but its fruit is sweet"
+    }
+
 }
 ```
 
